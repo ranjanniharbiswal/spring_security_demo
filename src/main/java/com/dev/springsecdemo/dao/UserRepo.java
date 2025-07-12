@@ -1,9 +1,9 @@
-package com.telusko.springsecdemo.dao;
+package com.dev.springsecdemo.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.telusko.springsecdemo.model.User;
+import com.dev.springsecdemo.model.User;
 @Repository
 public interface UserRepo extends JpaRepository<User, Integer> {
 

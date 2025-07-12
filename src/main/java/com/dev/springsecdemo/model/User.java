@@ -1,4 +1,4 @@
-package com.telusko.springsecdemo.model;
+package com.dev.springsecdemo.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

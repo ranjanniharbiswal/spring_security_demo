@@ -1,4 +1,4 @@
-package com.telusko.springsecdemo.config;
+package com.dev.springsecdemo.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 

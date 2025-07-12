@@ -1,11 +1,11 @@
-package com.telusko.springsecdemo.service;
+package com.dev.springsecdemo.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import com.telusko.springsecdemo.dao.UserRepo;
-import com.telusko.springsecdemo.model.User;
+import com.dev.springsecdemo.dao.UserRepo;
+import com.dev.springsecdemo.model.User;
 
 @Service
 public class UserService {

@@ -1,4 +1,4 @@
-package com.telusko.springsecdemo.controller;
+package com.dev.springsecdemo.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.telusko.springsecdemo.model.Student;
+import com.dev.springsecdemo.model.Student;
 
 import jakarta.servlet.http.HttpServletRequest;
 
